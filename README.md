@@ -5,7 +5,7 @@ A Healthcare Analytics Dashboard built using "MySQL", "SQL", and "Power BI" to a
 
  Dashboard Preview
 
-![Healthcare Dashboard](Screenshots/Dashboard.png)
+ https://github.com/bhuvanhb/Healthcare-Analytics-Dashboard/blob/main/Healthcare-Analytics-Dashboard/Screenshots/Dashboard.png 
 
 
  Project Overview
